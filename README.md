@@ -17,4 +17,4 @@ Hi, I’m @mil35i5
 
 I like html and python
 
-My web site is: https://emil.ystrom.dk
+[My website](https://emil.ystrom.dk)
